@@ -1,2 +1,2 @@
-# github-story
+# supersimple-react
 Your GitHub Story

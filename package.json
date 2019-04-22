@@ -1,8 +1,8 @@
 {
-  "name": "github-story",
+  "name": "supersimple-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kat3samsin.github.io/github-story/",
+  "homepage": "https://kat3samsin.github.io/supersimple-react/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -26,6 +26,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "react-redux": "^7.0.2",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
